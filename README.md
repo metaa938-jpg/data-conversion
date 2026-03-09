@@ -1,1 +1,1 @@
-this codes explains a data conversiom
+this codes explains a data conversion
